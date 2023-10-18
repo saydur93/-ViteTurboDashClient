@@ -1,0 +1,6 @@
+{
+    "eslint.workingDirectories": [
+      "./client" // Or wherever the root of your ESLint configuration is located relative to the workspace folder
+    ]
+  }
+  
